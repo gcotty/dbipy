@@ -1,0 +1,10 @@
+{
+"my_database_name":
+    {
+        "user":"userName",
+        "passwd":"password",
+        "jdbc_url":"jdbc:database_type://host/OPTION1=OPTION, DATABASE=DATEBASE_NAME ::PORT",
+        "class_path":"com.database.jdbc.Driver",
+        "jar_path":["/path/to/driver/database.jar"]
+    }
+}
